@@ -1,0 +1,20 @@
+.botao {
+  padding: 10px 20px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer; /* Certifique-se de que o cursor muda ao passar sobre o botão */
+}
+
+.botao-incrementar-arg1 {
+  background-color: blue;
+}
+
+.botao-incrementar-arg2 {
+  background-color: green;
+}
+
+.botao-realizar-operacao {
+  background-color: red;
+}
